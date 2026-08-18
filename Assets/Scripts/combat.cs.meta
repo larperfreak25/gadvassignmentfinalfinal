@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 921e97e9f7c1c294e9d949cd16961ede
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - leftZone: {instanceID: 0}
+  - rightZone: {instanceID: 0}
+  - feedbackText: {instanceID: 0}
+  - healthText: {fileID: 4496299347494156506, guid: 499de94bb93547c4aa7ed93026b34f28, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
